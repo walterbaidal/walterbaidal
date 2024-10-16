@@ -7,6 +7,7 @@ Now, after years of education and hard work 📕, I got the knowledge of several
 
 ## ⚡ Skills:
 - Fullstack background.
+- Clean code and clean architectures.
 - Scripting languages like Python and Bash.
 - Architecting and implementing cloud solutions on AWS and Azure.
 - In-depth knowledge of Docker and Kubernetes with hand-on administration experience.
