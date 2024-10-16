@@ -11,7 +11,7 @@ Now, after years of education and hard work 📕, I got the knowledge of several
 - Scripting languages like Python and Bash.
 - Architecting and implementing cloud solutions on AWS and Azure.
 - In-depth knowledge of Docker and Kubernetes with hand-on administration experience.
-- Developing and deploying infrastructure as code with Terraform and Helm.
+- Developing and deploying infrastructure as code with Terraform/Terragrunt and Helm.
 - Understanding of CI/CD theory.
 - Implementing and maintaining DevSecOps and GitOps workflows.
 - Managing observability and monitoring to ensure operational reliability.
